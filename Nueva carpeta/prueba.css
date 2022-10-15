@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0; 
+}
+html {
+font-family: 'Josefin Sans', sans-serif;
+
+}
+body {
+background-color: white;
+} 
+
+.primeraParte {
+background-image: url(img/almejas.jpg);
+height: 1000px;
+}
+
+.menu{
+  margin-left: 500px ;
+  font-size: 25px;
+  
+}
+
+.menuItem{
+ display: inline-block;
+ padding: 5px;
+  margin-top: 10px;
+}
+
+.menuItem a{
+
+ color: white;
+  text-decoration: none;
+
+}
+.menuItem a:hover{
+
+ color: white;
+background-color: #262927;
+
+}
+
+ .titulo {
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  margin-top: 150px;
+  margin-left: 500px ;
+}
+
+.texto {
+ margin:  50px;
+
+}
+.texto p {
+ margin-top: 5px;
+margin-bottom: 10px;
+}
+
+.subtitulo{
+font-size: 50px;
+ padding-bottom: 20px;
+
+}
+
+.imagen{
+  background-size: cover;
+  height: 380px;
+  
+
+}
+.imagenFideos{
+  background-size: cover;
+  width: 1050px;
+  
+
+}
+
+
+.imagenes{
+display: inline-block;
+padding: 10px;
+margin-left: 40px;
+width: 240px;
+height: 440px;
+}
+
+.pie {
+  color: white;
+  background-color: #262927;
+  padding: 20px;
+  text-align: center;
+}
+.epigrafe p{
+  font-size: 30px;
+ 
+
+}
+
+.epigrafe{
+margin-left: 50px;
+
+}
