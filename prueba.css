@@ -4,49 +4,45 @@
   padding: 0; 
 }
 html {
-font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Josefin Sans', sans-serif;
 
 }
 body {
-background-color: white;
+ background-color: white;
 } 
 
 .primeraParte {
-background-image: url(img/almejas.jpg);
-height: 1000px;
+  background-image: url(img/almejas.jpg);
+  height: 1000px;
 }
 
 .menu{
-  margin-left: 500px ;
-  font-size: 25px;
-  
+  margin-left: 600px ;
+  font-size: 25px;  
 }
 
 .menuItem{
  display: inline-block;
  padding: 5px;
-  margin-top: 10px;
+ margin-top: 15px;
 }
 
 .menuItem a{
-
  color: white;
-  text-decoration: none;
-
+ text-decoration: none;
 }
+
 .menuItem a:hover{
-
  color: white;
-background-color: #262927;
-
-}
+ background-color: #262927;
+ }
 
  .titulo {
-  font-size: 70px;
+  font-size: 100px;
   color: white;
   text-align: center;
-  margin-top: 150px;
-  margin-left: 500px ;
+  margin-top:250px;
+  margin-left: 700px ;
 }
 
 .texto {
@@ -55,35 +51,33 @@ background-color: #262927;
 }
 .texto p {
  margin-top: 5px;
-margin-bottom: 10px;
+ margin-bottom: 10px;
 }
 
 .subtitulo{
-font-size: 50px;
- padding-bottom: 20px;
+  font-size: 50px;
+  padding-bottom: 20px;
 
 }
 
 .imagen{
   background-size: cover;
-  height: 380px;
-  
+  width: 1250px;
+  height: 450px;
+  }
 
-}
 .imagenFideos{
   background-size: cover;
-  width: 1050px;
-  
-
+  width: 1250px;
 }
 
 
 .imagenes{
-display: inline-block;
-padding: 10px;
-margin-left: 40px;
-width: 240px;
-height: 440px;
+  display: inline-block;
+  padding: 10px;
+  margin-left: 80px;
+  width: 240px;
+  height: 440px;
 }
 
 .pie {
@@ -94,11 +88,8 @@ height: 440px;
 }
 .epigrafe p{
   font-size: 30px;
- 
-
 }
 
 .epigrafe{
-margin-left: 50px;
-
+  margin-left: 50px;
 }
