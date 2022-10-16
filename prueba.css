@@ -17,7 +17,7 @@ body {
 }
 
 .menu{
-  margin-left: 600px ;
+  margin-left: 740px ;
   font-size: 25px;  
 }
 
@@ -41,8 +41,8 @@ body {
   font-size: 100px;
   color: white;
   text-align: center;
-  margin-top:250px;
-  margin-left: 700px ;
+  margin-top:280px;
+  margin-left: 800px ;
 }
 
 .texto {
@@ -62,13 +62,13 @@ body {
 
 .imagen{
   background-size: cover;
-  width: 1250px;
+  width: 1270px;
   height: 450px;
   }
 
 .imagenFideos{
   background-size: cover;
-  width: 1250px;
+  width: 1270px;
 }
 
 
